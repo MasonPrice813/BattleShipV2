@@ -21,7 +21,7 @@ WHERE GAME STATE LIVES
 - This includes ship positions, hit/miss history, turn order, AI memory, and the battle log
 - Because state is stored in the session, refreshing the page does not reset the game
 
-STATE TRANSITIONS (SIMPLIFIED)
+STATE TRANSITIONS
 - Game starts → Player turn
 - Player fires a shot → Server processes hit/miss
 - If no winner → Computer turn
