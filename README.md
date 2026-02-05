@@ -14,8 +14,6 @@ This iteration added multiple AI difficulty levels that change how the computer 
 - **Medium:** After getting a hit, the computer targets nearby cells to try to sink the ship.
 - **Hard:** The computer uses a hunt-and-target strategy, remembers previous hits, uses parity searching, and extends shots once it detects a ship’s orientation.
 
-This iteration significantly changes game behavior and adds AI memory across turns.
-
 ## Known Limitations
 - Ships are placed automatically; the player cannot manually place ships.
 - Game state is stored using PHP sessions, so the game resets if Apache is restarted in XAMPP or the session is cleared.
