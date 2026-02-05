@@ -17,4 +17,3 @@ This iteration added multiple AI difficulty levels that change how the computer 
 ## Known Limitations
 - Ships are placed automatically; the player cannot manually place ships.
 - Game state is stored using PHP sessions, so the game resets if Apache is restarted in XAMPP or the session is cleared.
-- There is no database or long-term persistence; the game does not continue after a full server restart.
