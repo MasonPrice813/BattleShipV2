@@ -18,6 +18,10 @@ This iteration added multiple AI difficulty levels that change how the computer 
 - Ships are placed automatically; the player cannot manually place ships.
 - Game state is stored using PHP sessions, so the game resets if Apache is restarted in XAMPP or the session is cleared.
 
+## How to Run the Program: 
+Place the BattleshipV2 folder into the htdocs folder. This is the exact path on Windows: "C:\xampp\htdocs\BattleshipV2"
+The localhost URL is: http://localhost/BattleshipV2/
+
 LINK TO LOOM: 
 https://www.loom.com/share/d42a6e2ff42849319c6de7ad6df82ae6
 
