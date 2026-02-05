@@ -20,6 +20,7 @@ This iteration added multiple AI difficulty levels that change how the computer 
 
 ## How to Run the Program: 
 Place the BattleshipV2 folder into the htdocs folder. This is the exact path on Windows: "C:\xampp\htdocs\BattleshipV2"
+
 The localhost URL is: http://localhost/BattleshipV2/
 
 LINK TO LOOM: 
