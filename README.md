@@ -17,3 +17,8 @@ This iteration added multiple AI difficulty levels that change how the computer 
 ## Known Limitations
 - Ships are placed automatically; the player cannot manually place ships.
 - Game state is stored using PHP sessions, so the game resets if Apache is restarted in XAMPP or the session is cleared.
+
+LINK TO LOOM: 
+https://www.loom.com/share/d42a6e2ff42849319c6de7ad6df82ae6
+
+The Loom is also attached as as a downloadable mp4 to the github.
